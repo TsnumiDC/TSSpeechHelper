@@ -9,6 +9,10 @@
 //  Privacy - Microphone Usage Description              话筒权限
 ```
 
+[个人博客实现地址](http://www.dylancc.com/index.php/archives/124/)
+
+[简书实现地址](http://www.jianshu.com/p/ef07c63e7663)
+
 1. 使用语音识别系统,需要实现以下Block,用于回调
 
 ```
